@@ -19,4 +19,4 @@ interfaces, strong defaults, and less operational drag.
 
 ### /links
 
-[southforgeai.com](https://southforgeai.com) · [email](mailto:hello@southforgeai.com)
+[southforgeai.com](https://southforgeai.com)
