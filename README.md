@@ -1,5 +1,7 @@
 <div align="center">
   <img src="./assets/forge.gif" alt="SouthForge AI animated ASCII forge" width="720" />
+  <br />
+  <img src="./assets/signal.svg" alt="Public GitHub star count" width="720" />
 </div>
 
 ```text
