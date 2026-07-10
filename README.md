@@ -10,9 +10,6 @@
 > status: shipping
 ```
 
-I build local-first developer tools and small, useful software—focused on clear
-interfaces, strong defaults, and less operational drag.
-
 ### /current_work
 
 - [Toolport](https://github.com/tsouth89/toolport) — local-first MCP gateway with lazy discovery and integrity controls.
