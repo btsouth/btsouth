@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="./assets/forge.gif" alt="SouthForge AI animated ASCII forge" width="720" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <img src="./assets/header-light.svg" alt="Southbound Software - independent software, practical tools for the agent era" width="720" />
+  </picture>
   <br />
-  <img src="./assets/signal.svg" alt="Public GitHub star count" width="720" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-dark.svg" />
+    <img src="./assets/signal-light.svg" alt="Public GitHub star count" width="720" />
+  </picture>
 </div>
 
 ```text
-> founder @ southforge ai
+> founder @ southbound software
 > building practical tools for the agent era
 > status: shipping
 ```
@@ -13,11 +19,10 @@
 ### /current_work
 
 - [Toolport](https://github.com/tsouth89/toolport) - local-first MCP gateway with lazy discovery and integrity controls.
+- [Toolport Studio](https://github.com/tsouth89/toolport-studio) - one desktop home for Claude, Codex, Cursor, and Grok.
 - [Ceiling](https://github.com/tsouth89/ceiling) - Windows tray monitor for AI subscription limits and reset times.
 - [Cubby](https://github.com/tsouth89/cubby-clipboard) - native-feeling clipboard history replacement for Windows 11.
-- [Burnwatch](https://github.com/tsouth89/burnwatch-sdk) - observe-only spend monitoring for autonomous AI agents.
-- [LimitWatch](https://github.com/tsouth89/limitwatch) - source-linked tracking for AI subscription limits.
 
 ### /links
 
-[southforgeai.com](https://southforgeai.com)
+[southboundsoftware.com](https://southboundsoftware.com)
