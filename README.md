@@ -10,6 +10,7 @@
   </picture>
 </div>
 
+
 ```text
 > founder @ southbound software
 > building practical tools for the agent era
