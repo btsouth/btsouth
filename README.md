@@ -20,7 +20,6 @@
 ### /current_work
 
 - [Toolport](https://github.com/tsouth89/toolport) - local-first MCP gateway with lazy discovery and integrity controls.
-- [Toolport Studio](https://github.com/tsouth89/toolport-studio) - one desktop home for Claude, Codex, Cursor, and Grok.
 - [Ceiling](https://github.com/tsouth89/ceiling) - Windows tray monitor for AI subscription limits and reset times.
 - [Cubby](https://github.com/tsouth89/cubby-clipboard) - native-feeling clipboard history replacement for Windows 11.
 
