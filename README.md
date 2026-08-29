@@ -40,7 +40,7 @@ I'm Tyler — a solo builder with an IT and security background. I ship the tool
 
 ### links
 
-[btso.dev](https://btso.dev) · [x / @btsouth](https://x.com/btsouth) · [tyler@btso.dev](mailto:tyler@btso.dev) · [omarchy](https://omarchy.com)
+[btso.dev](https://btso.dev) · [x / @btsouth](https://x.com/btsouth) · [tyler@btso.dev](mailto:tyler@btso.dev)
 
 ---
 
