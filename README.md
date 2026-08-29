@@ -44,4 +44,4 @@ Hello, my name is Tyler. I'm a solo builder with an IT and security background. 
 
 ---
 
-*Built to be used. If something breaks, tell me — it's one person answering.*
+*Feel free to reach out. Happy to help or just chat about my projects!*
