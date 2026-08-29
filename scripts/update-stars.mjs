@@ -13,10 +13,10 @@ const stars = repositories
   .filter((repository) => !repository.fork)
   .reduce((total, repository) => total + repository.stargazers_count, 0);
 
-// Southbound Software palette (see southboundsoftware.com brand assets).
+// btso.dev palette (see https://btso.dev).
 const themes = {
-  light: { background: '#f1efe8', ink: '#151817', rule: '#d9d5c9', muted: '#5d625e' },
-  dark: { background: '#171c1b', ink: '#f8f7f2', rule: '#2c3331', muted: '#8b918d' },
+  light: { background: '#faf9f6', ink: '#1b1d1f', rule: '#e3e0d6', muted: '#97999c' },
+  dark: { background: '#0b0b0d', ink: '#e6e6ea', rule: '#1e1e26', muted: '#5f5f68' },
 };
 
 const signalRed = '#e34b2d';
