@@ -10,7 +10,7 @@
   </picture>
 </div>
 
-I'm Tyler — a solo builder with an IT and security background. I ship the tools I actually use every day, and most of them are open source. Omarchy is my daily driver, and all of it starts as something I needed.
+Hello, my name is Tyler. I'm a solo builder with an IT and security background. I ship the tools I actually use every day, and most of them are open source. Omarchy is my daily driver, but I have an extensive background with Windows.
 
 ```text
 > whoami        solo builder · IT/security
