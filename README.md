@@ -13,7 +13,11 @@ I'm Tyler. My background is in IT and cybersecurity. I use AI to turn technical 
 
 [Website](https://toolport.app) · [Downloads](https://github.com/tsouth89/toolport/releases/latest) · [Source](https://github.com/tsouth89/toolport)
 
-I also build tools for Omarchy and Windows. My current work is in the pinned repositories below. Everything is free and open source.
+## Omarchy
+
+Outside Toolport, most of my current work is built for or around Omarchy, which is my daily driver. I make the tools I want in my own setup and release them as open source.
+
+My current work is in the pinned repositories below. Everything is free and open source.
 
 ## Links
 
