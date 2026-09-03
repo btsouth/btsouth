@@ -17,4 +17,4 @@ I also build tools for Omarchy and Windows. My current work is in the pinned rep
 
 ## Links
 
-[btso.dev](https://btso.dev) · [Sponsor](https://github.com/sponsors/tsouth89) · [X](https://x.com/btsouth) · [Email](mailto:tyler@btso.dev)
+[btso.dev](https://btso.dev) · [Sponsor](https://github.com/sponsors/tsouth89) · [Email](mailto:tyler@btso.dev)
