@@ -3,45 +3,30 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
     <img src="./assets/header-light.svg" alt="btso.dev" width="720" />
   </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-dark.svg" />
-    <img src="./assets/signal-light.svg" alt="Public GitHub star count" width="720" />
-  </picture>
 </div>
 
-Hello, my name is Tyler. I'm a solo builder with an IT and security background. I ship the tools I actually use every day, and most of them are open source. Omarchy is my daily driver, and I also have an extensive background with Windows.
+I'm Tyler. I build local-first, open-source software for AI tooling, Omarchy, and Windows. My background is in IT and security, and I make software I use myself.
 
-```text
-> whoami        solo builder · IT/security
-> os            omarchy (arch + hyprland)
-> focus         local-first tools · MCP · agent automation
-> status        shipping
-```
+## Toolport
 
-### flagship
+[Toolport](https://github.com/tsouth89/toolport) is my main project. It is a local MCP gateway that lets AI clients share one set of servers, credentials, and rules. Tools are loaded on demand instead of putting every tool definition into every request.
 
-- [**Toolport**](https://github.com/tsouth89/toolport) — local-first MCP gateway. Set up each server once, use it from every AI client. Lazy discovery keeps tool definitions tiny; credentials stay on your machine. `190★`
+[Website](https://toolport.app) · [Downloads](https://github.com/tsouth89/toolport/releases/latest) · [Source](https://github.com/tsouth89/toolport)
 
-### omarchy
+## Omarchy
 
-- [Try Omarchy for Windows](https://github.com/tsouth89/try-omarchy-windows) — the full Omarchy desktop as a native-feeling Windows app
-- [omcp](https://github.com/tsouth89/omarchy-omcp) — turns your desktop into an MCP server (windows, themes, screenshots) for agents
-- [resurrect](https://github.com/tsouth89/omarchy-resurrect) — backup and restore a whole Omarchy setup, pinned to commits
-- [typearchy](https://github.com/tsouth89/typearchy) — local-first typing for Omarchy. Timed tests, code and shell drills, ghosts
-- [signal](https://github.com/tsouth89/signal) — a quiet Sentry inbox in your bar
-- [omadrop](https://github.com/tsouth89/omadrop) — MilkDrop-style music visualizer for Omarchy
+- [Try Omarchy for Windows](https://github.com/tsouth89/try-omarchy-windows) runs the full Omarchy desktop in a Windows 11 app.
+- [Omakade](https://github.com/tsouth89/omakade) brings games installed through Steam, Lutris, Heroic, RetroArch, and other launchers into one library.
+- [Omadrop](https://github.com/tsouth89/omadrop) is a native music visualizer driven by PipeWire audio and album art.
+- [Omaroll](https://github.com/tsouth89/omaroll) organizes screenshots, recordings, photos, and videos without moving the original files.
 
-### windows
+## Windows
 
-- [Ceiling](https://github.com/tsouth89/ceiling) — remaining AI capacity, in the taskbar
-- [Cubby](https://github.com/tsouth89/cubby-clipboard) — clipboard history for Windows 11, encrypted and searchable offline
-- [Matteshot](https://matteshot.app) — screenshots that look finished, with a proper editor
+- [Ceiling](https://github.com/tsouth89/ceiling) shows remaining AI usage and reset times from the system tray and taskbar.
+- [Cubby Clipboard](https://github.com/tsouth89/cubby-clipboard) is a persistent, encrypted clipboard history with search and offline screenshot OCR.
 
-### links
+Everything listed here is free and open source.
 
-[btso.dev](https://btso.dev) · [x / @btsouth](https://x.com/btsouth) · [tyler@btso.dev](mailto:tyler@btso.dev)
+## Links
 
----
-
-*Feel free to reach out. Happy to help or just chat about my projects!*
+[btso.dev](https://btso.dev) · [Sponsor](https://github.com/sponsors/tsouth89) · [X](https://x.com/btsouth) · [Email](mailto:tyler@btso.dev)
