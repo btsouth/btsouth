@@ -9,9 +9,9 @@ I'm Tyler. My background is in IT and cybersecurity. I use AI to turn technical 
 
 ## Toolport
 
-[Toolport](https://github.com/tsouth89/toolport) is my main project. It gives AI clients one place to find and use MCP tools, keeps credentials on your machine, and avoids loading every tool definition into every request.
+[Toolport](https://github.com/btsouth/toolport) is my main project. It gives AI clients one place to find and use MCP tools, keeps credentials on your machine, and avoids loading every tool definition into every request.
 
-[Website](https://toolport.app) · [Downloads](https://github.com/tsouth89/toolport/releases/latest) · [Source](https://github.com/tsouth89/toolport)
+[Website](https://toolport.app) · [Downloads](https://github.com/btsouth/toolport/releases/latest) · [Source](https://github.com/btsouth/toolport)
 
 ## Omarchy
 
@@ -21,4 +21,4 @@ My current work is in the pinned repositories below. Everything is free and open
 
 ## Links
 
-[btso.dev](https://btso.dev) · [Sponsor](https://github.com/sponsors/tsouth89) · [Email](mailto:tyler@btso.dev)
+[btso.dev](https://btso.dev) · [Sponsor](https://github.com/sponsors/btsouth) · [Email](mailto:tyler@btso.dev)
