@@ -5,7 +5,7 @@
   </picture>
 </div>
 
-I'm Tyler. My background is in IT and cybersecurity. I use AI to turn technical problems into local-first, open-source software.
+I'm Tyler. My background is in IT and cybersecurity.
 
 ## Toolport
 
